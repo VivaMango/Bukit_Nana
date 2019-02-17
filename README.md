@@ -1,5 +1,5 @@
 # BukitJS
-## HW 12: CLI Shopping Database
+### HW 12: CLI Shopping Database
 
 ### WELCOME TO THE BUKIT DATABASE
 
