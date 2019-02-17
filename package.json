@@ -1,0 +1,23 @@
+{
+  "name": "bukit_nana",
+  "version": "1.0.0",
+  "description": "MySQL test app",
+  "main": "bukit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VivaMango/Bukit_Nana.git"
+  },
+  "author": "VivaMango",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VivaMango/Bukit_Nana/issues"
+  },
+  "homepage": "https://github.com/VivaMango/Bukit_Nana#readme",
+  "dependencies": {
+    "inquirer": "^6.2.2",
+    "mysql": "^2.16.0"
+  }
+}
